@@ -1,9 +1,10 @@
 # Prof. Shinji's Keynote Session Notes
 ## MSLD 2026: Open Science, Reproducibility, and Scaling in Speech Recognition
 
-**Speaker:** Prof. Shinji  
-**Conference:** MSLD 2026  https://nlp.cs.illinois.edu/msld.html
+**Speaker:** Prof. Shinji Watnabe (
+**Conference:** MSLD 2026  (https://nlp.cs.illinois.edu/msld.html)
 **Key Topics:** Open Science, Model Reproducibility, Computational Scaling, Data Collection, Unification in Science
+
 
 ---
 
@@ -454,3 +455,5 @@ The position isn't "commercial research is bad." Rather:
 (to open science, community collaboration, and looking for deep principles in research).
 
 The practical lesson is that large-scale AI research, while challenging, is increasingly accessible to academic researchers through careful planning, community collaboration, and smart use of available resources.
+
+References: https://arxiv.org/abs/2602.05220
