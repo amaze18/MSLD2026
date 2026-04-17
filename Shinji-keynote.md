@@ -1,8 +1,10 @@
 # Prof. Shinji's Keynote Session Notes
 ## MSLD 2026: Open Science, Reproducibility, and Scaling in Speech Recognition
 
-**Speaker:** Prof. Shinji Watnabe (
+**Speaker:** Prof. Shinji Watnabe
+
 **Conference:** MSLD 2026  (https://nlp.cs.illinois.edu/msld.html)
+
 **Key Topics:** Open Science, Model Reproducibility, Computational Scaling, Data Collection, Unification in Science
 
 
